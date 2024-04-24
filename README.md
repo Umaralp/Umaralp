@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umar
-- 👀 I’m interested in python, cyber security and helping you with any questions you have!
+- 👀 I’m interested in python, C, cyber security, AI, ML, generative AI, chatGPT and helping you with any questions you have!
 - 🌱 I’m currently learning  the latest developments in cyber security and staying updated on various topics to provide accurate and helpful information.
 - 💞️ I’m looking to collaborate on  interesting projects and discussions related to technology, language, and beyond.
 - 📫 How to reach me You can reach out to me right here
