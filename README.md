@@ -1,13 +1,19 @@
-Hi, I’m Umar
-- 👀 I’m interested in cyber security, web development, AI, ML, generative AI, chatGPT and programming languages: java, python and C. and helping you with any questions you have!
-- 🌱 I’m currently learning  the latest developments in cyber security and staying updated on various topics to provide accurate and helpful information.
-- 💞️ I’m looking to collaborate on  interesting projects and discussions related to technology, language, and beyond.
-- 📫You can reach out to me through 
--    Gmail: junaid.umar.ju@gmail.com
--    Linkedin: www.linkedin.com/in/junaid-umar
--    #cybersecurity #Python #EthicalHacking #webdevelopment 
+Hi, I'm Junaid Umar 👋
+I'm a Computer Science Engineering student and an active learner with a passion for technology and innovation. Over the years, I've completed various introductory courses, including IoT, Generative AI, and ChatGPT-related topics. Currently, I'm diving deep into Cybersecurity, completing the Google Cybersecurity course on Coursera.
 
-<!---
-Umaralp/Umaralp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What you'll find here:
+🛠️ Projects showcasing my growing expertise in cybersecurity and full-stack development.
+📊 Reports and documentation related to security practices and tools.
+🌱 Repositories where I experiment with IoT, AI, and other cutting-edge technologies.
+💻 Scripts and utilities for SQL, Linux commands, and other development tools.
+
+Areas of Interest & Skills:
+Cybersecurity: Currently pursuing the Google Cybersecurity course.
+Hands-on: Experience with SQL and Linux commands, as well as preparing security-related reports.
+Technologies: IoT, Generative AI, Cloud Services
+Programming Languages: JavaScript, Python, Java, SQL
+Let's Connect:
+LinkedIn: https://www.linkedin.com/in/junaid-umar
+Email: mailto:1cg23cs037@cittumkur.org
+
+I'm always eager to collaborate, learn, and explore new technologies. Feel free to connect and explore my projects!
