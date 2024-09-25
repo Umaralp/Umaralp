@@ -12,8 +12,9 @@ Cybersecurity: Currently pursuing the Google Cybersecurity course.
 Hands-on: Experience with SQL and Linux commands, as well as preparing security-related reports.
 Technologies: IoT, Generative AI, Cloud Services
 Programming Languages: JavaScript, Python, Java, SQL
+
 Let's Connect:
 LinkedIn: https://www.linkedin.com/in/junaid-umar
-Email: mailto:1cg23cs037@cittumkur.org
+Email: junaid.umar.ju@gmail.com
 
 I'm always eager to collaborate, learn, and explore new technologies. Feel free to connect and explore my projects!
