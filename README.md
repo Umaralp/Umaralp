@@ -16,5 +16,6 @@ Programming Languages: JavaScript, Python, Java, SQL
 Let's Connect:
 LinkedIn: https://www.linkedin.com/in/junaid-umar
 Email: junaid.umar.ju@gmail.com
+X: https://x.com/Junaid_umar17
 
 I'm always eager to collaborate, learn, and explore new technologies. Feel free to connect and explore my projects!
