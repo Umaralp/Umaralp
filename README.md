@@ -1,15 +1,7 @@
 # JUAID UMAR
 
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaralp&show_icons=true&theme=dark)
-
 ## 📈 Contribution Graph
 ![Junaid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umaralp&theme=react)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=umaralp&theme=dark&hide_border=true)
-
-## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaralp&layout=compact&theme=dark)
 
 I am a **Computer Science Engineering Student** with a passion for exploring technology and its applications in real-world problem-solving. Recently, I completed the **Google Cybersecurity Specialization** and the **Google UX Design** course, which have equipped me with foundational knowledge in these fields and inspired me to delve deeper into creating secure and user-friendly solutions.
 
@@ -22,9 +14,18 @@ I am a **Computer Science Engineering Student** with a passion for exploring tec
 ## My Aspirations:
 I aim to apply my learning in **Cybersecurity** and **UX Design** to contribute to innovative and secure technology solutions. My journey is fueled by continuous learning and a desire to make technology accessible, secure, and impactful for everyone.
 
+## 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaralp&layout=compact&theme=dark)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=umaralp&theme=dark&hide_border=true)
+
 ## Let's Connect:
 - **LinkedIn**: [https://www.linkedin.com/in/junaid-umar](https://www.linkedin.com/in/junaid-umar)
 - **Email**: [junaid.umar.ju@gmail.com](mailto:junaid.umar.ju@gmail.com)
 - **X (formerly Twitter)**: [https://x.com/Junaid_umar17](https://x.com/Junaid_umar17)
 
-I'm always eager to collaborate, learn, and explore new technologies. Feel free to connect and explore my projects!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-umar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaid.umar.ju@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Junaid_umar17)
+I'm always eager to collaborate, learn, and explore new technologies. Feel free to connect and explore my projects! 
