@@ -1,15 +1,15 @@
 # JUAID UMAR
 
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaidumarcit&show_icons=true&theme=dark)
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaralp&show_icons=true&theme=dark)
 
 ## 📈 Contribution Graph
-![Junaid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junaidumarcit&theme=react)
+![Junaid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umaralp&theme=react)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=junaidumarcit&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=umaralp&theme=dark&hide_border=true)
 
 ## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidumarcit&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaralp&layout=compact&theme=dark)
 
 I am a **Computer Science Engineering Student** with a passion for exploring technology and its applications in real-world problem-solving. Recently, I completed the **Google Cybersecurity Specialization** and the **Google UX Design** course, which have equipped me with foundational knowledge in these fields and inspired me to delve deeper into creating secure and user-friendly solutions.
 
