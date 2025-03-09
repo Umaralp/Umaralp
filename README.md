@@ -27,7 +27,9 @@ I aim to apply my learning in **Cybersecurity** and **UX Design** to contribute 
 
 ## Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-umar) **LinkedIn**: (https://www.linkedin.com/in/junaid-umar)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaid.umar.ju@gmail.com) **Email**: [junaid.umar.ju@gmail.com](mailto:junaid.umar.ju@gmail.com)
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Junaid_umar17) **X (formerly Twitter)**: [https://x.com/Junaid_umar17](https://x.com/Junaid_umar17)
 
 
