@@ -1,16 +1,19 @@
 # JUAID UMAR
-![Visitor Count](https://komarev.com/ghpvc/?username=umaralp&color=blue&style=for-the-badge)
 
 ## About Me:
 I am a **Computer Science Engineering Student** with a passion for exploring technology and its applications in real-world problem-solving. Recently, I completed the **Google Cybersecurity Specialization** and the **Google UX Design** course, which have equipped me with foundational knowledge in these fields and inspired me to delve deeper into creating secure and user-friendly solutions.
-![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.herokuapp.com/umaralp.json)
 
 
 ## What I’m Learning:
-- **Cybersecurity**: Understanding security risks, threat analysis, and mitigation techniques to protect systems and data.
-- **Python Programming**: Developing efficient solutions and automating tasks for enhanced productivity.
-- **UX Design**: Creating user-centered designs to improve digital experiences.
-- **AI/ML**: Exploring intelligent systems and their potential to transform industries.
+- [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%231A73E8.svg?style=for-the-badge&logo=security&logoColor=white)](#) **Cybersecurity**: Understanding security risks, threat analysis, and mitigation techniques to protect systems and data.
+- [![Python Programming](https://img.shields.io/badge/Python%20Programming-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#) **Python Programming**: Developing efficient solutions and automating tasks for enhanced productivity.
+- [![UX Design](https://img.shields.io/badge/UX%20Design-%23FF5722.svg?style=for-the-badge&logo=figma&logoColor=white)](#) **UX Design**: Creating user-centered designs to improve digital experiences.
+- [![AI/ML](https://img.shields.io/badge/AI%2FML-%237A1FA2.svg?style=for-the-badge&logo=ai&logoColor=white)](#) **AI/ML**: Exploring intelligent systems and their potential to transform industries.
+
+
+
+
+
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
