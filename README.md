@@ -1,4 +1,4 @@
-# JUAID UMAR
+# JUNAID UMAR
 
 ## About Me:
 I am a **Computer Science Engineering Student** with a passion for exploring technology and its applications in real-world problem-solving. Recently, I completed the **Google Cybersecurity Specialization** and the **Google UX Design** course, which have equipped me with foundational knowledge in these fields and inspired me to delve deeper into creating secure and user-friendly solutions.
